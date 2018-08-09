@@ -1,0 +1,5 @@
+html {
+  background-color: blue !important;
+  color: purple !important; }
+  html p:last-child {
+    color: red; }
